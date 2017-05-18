@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Myriad Pro Regular;
+    
+}
+
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+.navbar-nav > li > a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	line-height: 50px;
+}
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+	margin-left: -15px;
+	margin-top: 10px;
+}
+.slider{
+    background-image: url(images/bg.jpg);
+}
+.slider-overlay{
+    width: 100%;
+    background:rgba(0,0,0,0.3);
+}
+.item{
+    padding: 170px 0;
+    color: #fff;
+}
+.item h5{
+    font-size:32px;
+    font-family: Myriad Pro Regular;
+}
+.item h1{
+    font-size: 66px;
+    font-family: Myriad Pro Regular;
+}
+.item  h6{
+    font-size: 23px;
+    font-family: Myriad Pro Regular;
+    border: 2px solid #fff;
+    max-width: 2.1in;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 75px;
+   
+    
+    
+    
+}
+
+.item a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.dev1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.dev2{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color:#fafafa;
+}
+.dev3{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.dev4{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color:#fafafa;
+}
+.text{
+    padding-bottom: 50px;
+    
+}
+
+.text h1{
+    font-size:60px; 
+}
+.text p{
+    font-size:22px;
+    
+}
+.text2 p{
+    border: 640px 170px ;
+    border-radius:2;
+    border: 640px 170px ;
+    background-color: #fff; 
+    padding: 50px 80px;
+    font-size: 26px;
+    font-family: Myriad Pro Regular;
+    color: #a2a2a2;
+    
+    
+}
+.text2 p span{
+    color:#a1b2d5;
+    font-size: 20px;
+}
+.cmnt1{
+    padding-bottom: 40px;
+}
+.dev5{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color:#fff;
+}
+#team{
+    background-color:#111111;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.top-team{
+    padding-bottom: 70px;
+}
+.top-team h1{
+    font-size: 60px;
+    color:white;
+   
+}
+.top-team p{
+    font-size: 22px;
+    color: red;
+}
+.name{
+    padding-bottom: 5px;
+}
+.name p{
+    font-size:18px;
+    color: white;
+    padding-top: 15px;
+     
+   
+}
+.padd{
+    padding-top: 50px;
+}
+.padd p{
+    font-size: 20px;
+}
+
+#contact{
+    background-color:#7690c5;
+    padding-top: 100px;
+    padding-bottom:15px;
+}
+.contact-top h1{
+    font-family:Myriad Pror Regular;
+    font-size: 50px;
+    color:#ffffff;
+    
+    
+    
+}
+.contact-top p{
+    font-family:Myriad Pror Regular;
+    font-size: 18px;
+    color:#ffffff;
+    
+    
+    
+}
+.icon{
+    padding-top: 40px;
+    color:#ffffff;
+    font-size: 20px;
+}
+.form-area{
+  padding-top: 20px;
+  padding-right: 100px;
+ 
+}
+.form-control {
+	
+	width: 100%;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	
+}
+.cpy{
+    color: white;
+}
